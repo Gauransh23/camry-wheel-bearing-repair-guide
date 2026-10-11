@@ -8,9 +8,9 @@ An offline-friendly, illustrated home-workshop guide for removing the front stee
 
 ## Open the guide
 
-Open index.html in a modern browser. The procedural guide and its diagrams work locally without installation or a network connection. Source links need internet access. Use the page's Print / Save PDF button to make a printable copy.
+Open index.html in a modern browser. The procedural guide and its diagrams work locally without installation or a network connection. Source links need internet access. A [printable PDF](output/pdf/camry-front-bearing-guide.pdf) is also included. Use the page's Print / Save PDF button to generate a fresh copy.
 
-The guide includes a 48-step sequence, assembly-state views, joint-specific torque and socket references, stop conditions, a local job worksheet, a source register, and five generated illustrations for the bearing-tool bench operations. It covers tool fit and load paths as conditional checks; it does not supply guessed adapter sizes, a universal press-screw torque, or a confirmed Toyota fitment for an unidentified replacement bearing.
+The guide includes a 48-step sequence, assembly-state views, joint-specific torque and socket references, stop conditions, a local job worksheet, a source register, and seven generated illustrations: two exploded part overviews and five bearing-tool bench views. It covers tool fit and load paths as conditional checks; it does not supply guessed adapter sizes, a universal press-screw torque, or a confirmed Toyota fitment for an unidentified replacement bearing.
 
 ## Project choices and assumptions
 
